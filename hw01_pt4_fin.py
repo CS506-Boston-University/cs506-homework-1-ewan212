@@ -1,3 +1,6 @@
+
+######## COLLABORATION ######
+# I worked with Nick Mosca for this problem. We discussed the logic and approach together but we wrote our code separately
 # %%
 from __future__ import absolute_import
 
