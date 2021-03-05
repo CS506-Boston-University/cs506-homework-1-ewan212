@@ -1,0 +1,29 @@
+
+1.Working with the Algorithms
+- Data pre-processing (usage of lat/long and price & address missing values & conversion of data) (2/2)
+- Apply k-means++ (1/1) 
+- Apply hierarchical (1/1) 
+- Apply GMM (1/1)
+- Determination of parameters based on methodology (2/2)
+- Explanation of data representation and parameters (1/1) 
+- Provide a few bullet points with pros/cons of each algo (3/3)
+
+2.Data visualization
+- Heatmap creation (0.5/0.5)
+- Explanation if heatmap is useful (0.5/0.5) 
+- Cluster visualization for k-means++, hierarchical and GMM (1/2): doesn't plot hierarchical or GMM
+- Report of average for each cluster (1/2): doesn't report clusters for hierarchical or GMM
+- Plot on NYC map (Bonus points: 0) 
+- Understanding of findings and real NYC conditions (0/1) << missing response >>
+
+3.Image manipulation
+- Load image (1/1)
+- Process image (1/1)
+- Apply kmeans on image pixels with features red, green, blue values (3/3)
+- Replace pixels with the value of cluster centers (2/2)
+- Project the image after clustering (1/1) 
+
+
+Total: 22/25
+
+To submit a regrade request, please email rehap98@bu.edu.
