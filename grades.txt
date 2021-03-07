@@ -1,5 +1,9 @@
+1.Understanding K-means Clustering 
+- 1.1.1 Finding closest centroids (1/1)
+- 1.1.2 Computing centroid means (2/2)
+- 1.2 Random initialization (1/1)
 
-1.Working with the Algorithms
+2.Working with the Algorithms
 - Data pre-processing (usage of lat/long and price & address missing values & conversion of data) (2/2)
 - Apply k-means++ (1/1) 
 - Apply hierarchical (1/1) 
@@ -8,7 +12,7 @@
 - Explanation of data representation and parameters (1/1) 
 - Provide a few bullet points with pros/cons of each algo (3/3)
 
-2.Data visualization
+3.Data visualization
 - Heatmap creation (0.5/0.5)
 - Explanation if heatmap is useful (0.5/0.5) 
 - Cluster visualization for k-means++, hierarchical and GMM (1/2): doesn't plot hierarchical or GMM
@@ -16,7 +20,7 @@
 - Plot on NYC map (Bonus points: 0) 
 - Understanding of findings and real NYC conditions (0/1) << missing response >>
 
-3.Image manipulation
+4.Image manipulation
 - Load image (1/1)
 - Process image (1/1)
 - Apply kmeans on image pixels with features red, green, blue values (3/3)
@@ -24,6 +28,6 @@
 - Project the image after clustering (1/1) 
 
 
-Total: 22/25
+Total: 26/29
 
 To submit a regrade request, please email rehap98@bu.edu.
